@@ -6,6 +6,8 @@ using namespace std;
 
 int main (int argc, char const *argv[]){
     
+
+
     //Declaración de arreglo y variables
     char clave[15];
     

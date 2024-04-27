@@ -1,5 +1,5 @@
 <h1>
-##Generador de contraseñas
+<strong>Generador de contraseñas</strong>
 </h1>
 
 <p>
@@ -7,5 +7,5 @@ Este es un programa que se encarga de generar contraseñas de manera aleatoria c
 </p>
 
 <h4>
-###Jasir Reyes #61811583
+<strong>Jasir Reyes #61811583</strong>
 <h4>
